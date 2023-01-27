@@ -1,22 +1,22 @@
 [
     {
-        "text": "rain in seattle,\ndon't forget an umbrella,\nor it will be gloom",
+        "text": "snow in Edmonton,\ndon't forget your coat and scarf,\nor it will be cold",
         "image": "puddle_jumper_octodex.jpg"
     },
     {
-        "text": "my tunes on repeat,\nit's time for me to dj,\nhave you heard this one?",
+        "text": "Carly Rae Jepsen,\na musucian from BC,\nhave you heard her work?",
         "image": "vinyltocat.jpeg"
     },
     {
-        "text": "snow is still falling,\nis it time for apres yet?\nlet's do one more run",
+        "text": "Sun is still shining,\nis it time for sunscreen yet?\nlet's go to the beach",
         "image": "snowtocat_final.jpg"
     },
     {
-        "text": "beep boop bop beep boop,\ni am robot octocat,\ni think there's a bug",
+        "text": "Chat AI is cool,\nRobot are intelligent,\nbut also scary",
         "image": "Robotocat.jpeg"
     },
     {
-        "text": "same plot as before,\nso why is it still awesome?\ni think it's the hat",
+        "text": "Legend of Zelda,\nLink is the main character\nNot Princess Zelda",
         "image": "linktocat.jpg"
     }
 ]
